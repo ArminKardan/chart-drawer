@@ -1,4 +1,2 @@
 /publish.exe
 /node_modules/*
-/next-chart-server/node_modules/*
-/charter/node_modules/*
